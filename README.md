@@ -32,11 +32,11 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="[https://www.linkedin.com/in/radhesham-burkul-a96557234/]" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+<a href="https://www.linkedin.com/in/radhesham-burkul-a96557234/" target="_blank">
+  <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 <a href="mailto:shamburkul7@gmail.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
+  <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
 <a href="https://github.com/radhesham211156">
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
