@@ -32,10 +32,10 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
+<a href="[https://www.linkedin.com/in/radhesham-burkul-a96557234/]" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:shamburkul7@gmail.com">
 <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
 <a href="https://github.com/radhesham211156">
