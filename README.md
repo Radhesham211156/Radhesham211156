@@ -35,7 +35,7 @@
 <a href="https://www.linkedin.com/in/radhesham-burkul-a96557234/" target="_blank">
   <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
-<a href="mailto:shamburkul7@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=shamburkul7@gmail.com" target="_blank">
   <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
 <a href="https://github.com/radhesham211156">
